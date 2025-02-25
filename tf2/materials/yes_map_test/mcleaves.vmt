@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "minecraft_hall/mcleaves"
+	"$basetexture" "minecraft_textures/mcleaves"
 	"$surfaceprop" "Grass"
 	"$alphatest" 1
 	"$translucent" 1

@@ -1,5 +1,5 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "minecraft_hall/mcgrass"
+	"$basetexture" "minecraft_textures/mcgrass"
 	"$surfaceprop" "grass"
 }
