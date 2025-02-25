@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "minecraft_textures/mcglass"
-	"$surfaceprop" "Glass"
-	"$translucent" 1
-}

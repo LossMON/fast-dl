@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/minecraft_textures/mclava.vmt"
-	"insert"
-	{
-		"$waterdepth"		"105"
-	}
-}
